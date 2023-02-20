@@ -1,7 +1,9 @@
-How to Use Google Dorks?
-To use a Google Dork, you simply type in a Dork into the search box on Google and press “Enter”. Here are some of the best Google Dork queries that you can use to search for information on Google.
+#Google Dorks List and Updated Database in 2023
 
-Google Dork Queries Examples:
+#How to Use Google Dorks?
+#To use a Google Dork, you simply type in a Dork into the search box on Google and press “Enter”. Here are some of the best Google Dork queries that you can use to #search for information on Google.
+
+#Google Dork Queries Examples:
 site:.edu “phone number”– This Dork searches for websites on .edu domains that contain the words “phone number”. student “phone number” – This Dork searches for websites on .edu domains that contain the words “student” and “phone number”.
 inurl:edu “login” – This Dork searches for websites on .edu domains that contain the words “login”. This Dork searches for school websites that contain student login information.
 “powered by vbulletin” site:.edu – This Dork searches for websites on .edu domains that contain the words “powered by vbulletin”. This Dork searches for school websites that are running on the vbulletin forum software.
@@ -14,41 +16,41 @@ inurl:.edu “register forum” – This Dork searches for websites on .edu doma
 inurl:.gov “register forum” – This Dork searches for websites on .gov domains that contain the words “register forum”. This Dork searches for governmental websites that allow you to register for a forum.
 Scraper API provides a proxy service designed for web scraping. With over 20 million residential IPs across 12 countries, as well as software that can handle JavaScript rendering and solving CAPTCHAs, you can quickly complete large scraping jobs without ever having to worry about being blocked by any servers.
 
-Search Operators :
-cache:
+#Search Operators :
+#cache:
 
 [cache:www.google.com web] will show the cached content with the word “web” highlighted. This functionality is also accessible by clicking on the “Cached” link on Google’s main results page. The query [cache:] will show the version of the web page that Google has in its cache. For instance, [cache:www.google.com] will show Google’s cache of the Google homepage.
-link:
+#link:
 
 [link:www.google.com] will list webpages that have links pointing to the Google homepage.
-related:
+#related:
 
 [related:www.google.com] will list web pages that are similar to the Google homepage.
-info:
+#info:
 
 [info:www.google.com] will show information about the Google homepage.
-define:
+#define:
 
 The query [define:] will provide a definition of the words you enter after it, gathered from various online sources. The definition will be for the entire phrase entered (i.e., it will include all the words in the exact order you typed them). Eg: [define:google]
 stocks:
 
 If you begin a query with the [stocks:] operator, Google will treat the rest of the query terms as stock ticker symbols, and will link to a page showing stock information for those symbols. For instance, [stocks: intc yhoo] will show information about Intel and Yahoo. (Note you must type the ticker symbols, not the company name.)
-site:
+#site:
 
 If you include [site:] in your query, Google will restrict the results to those websites in the given domain. For instance, [help site:www.google.com] will find pages about help within www.google.com. [help site:com] will find pages about help within .com urls. Note there can be no space between the “site:” and the domain.
-allintitle:
+#allintitle:
 
 If you start a query with [allintitle:], Google will restrict the results to those with all of the query words in the title. For instance, [allintitle: google search] will return only documents that have both “google” and “search” in the title.
-intitle:
+#intitle:
 
 If you include [intitle:] in your query, Google will restrict the results to documents containing that word in the title. For instance, [intitle:google search] will return documents that mention the word “google” in their title, and mention the word “search” anywhere in the document (title or no). Putting [intitle:] in front of every word in your query is equivalent to putting [allintitle:] at the front of your query: [intitle:google intitle:search] is the same as [allintitle: google search].
-allinurl:
+#allinurl:
 
 If you start a query with [allinurl:], Google will restrict the results to those with all of the query words in the url. For instance, [allinurl: google search] will return only documents that have both “google” and “search” in the url. Note that [allinurl:] works on words, not url components. In particular, it ignores punctuation. Thus, [allinurl: foo/bar] will restrict the results to page with the words “foo” and “bar” in the url, but won’t require that they be separated by a slash within that url, that they be adjacent, or that they be in that particular word order. There is currently no way to enforce these constraints.
-inurl:
+#inurl:
 
 If you include [inurl:] in your query, Google will restrict the results to documents containing that word in the url. For instance, [inurl:google search] will return documents that mention the word “google” in their url, and mention the word “search” anywhere in the document (url or no). Putting “inurl:” in front of every word in your query is equivalent to putting “allinurl:” at the front of your query: [inurl:google inurl:search] is the same as [allinurl: google search].
-Google Dorks Updated Database:
+#Google Dorks Updated Database:
 Nina Simone intitle:”index.of” “parent directory” “size” “last modified” “description” I Put A Spell On You (mp4|mp3|avi|flac|aac|ape|ogg) -inurl:(jsp|php|html|aspx|htm|cf|shtml|lyrics-realm|mp3-collection) -site:.info
 Bill Gates intitle:”index.of” “parent directory” “size” “last modified” “description” Microsoft (pdf|txt|epub|doc|docx) -inurl:(jsp|php|html|aspx|htm|cf|shtml|ebooks|ebook) -site:.info
 parent directory /appz/ -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
@@ -388,23 +390,23 @@ inurl:nidp/idff/sso
 inurl:oidc/authorize
 inurl:opac_css
 inurl:weblogin intitle:("USG20-VPN"|"USG20W-VPN"|USG40|USG40W|USG60|
-A Google Dork is a search query that looks for specific information on Google’s search engine. Google Dorks are developed and published by hackers and are often used in “Google Hacking”.
+#A Google Dork is a search query that looks for specific information on Google’s search engine. Google Dorks are developed and published by hackers and are often used in “Google Hacking”.
 
-Google Dorks are extremely powerful. They allow you to search for a wide variety of information on the internet and can be used to find information that you didn’t even know existed.
+#Google Dorks are extremely powerful. They allow you to search for a wide variety of information on the internet and can be used to find information that you didn’t even know existed.
 
-Because of the power of Google Dorks, they are often used by hackers to find information about their victims or to find information that can be used to exploit vulnerabilities in websites and web applications.
+#Because of the power of Google Dorks, they are often used by hackers to find information about their victims or to find information that can be used to exploit vulnerabilities in websites and web applications.
 
-Google Search Engine is designed to crawl anything over the internet and this helps us to find images, text, videos, news and plethora of information sources. With it’s tremendous capability to crawl, it indexes data along the way, which also includes sensitive information like email addresses, login credentials, sensitive files, website vulnerabilities, and even financial information. In many cases, We as a user won’t be even aware of it.
+#Google Search Engine is designed to crawl anything over the internet and this helps us to find images, text, videos, news and plethora of information sources. With it’s tremendous capability to crawl, it indexes data along the way, which also includes sensitive information like email addresses, login credentials, sensitive files, website vulnerabilities, and even financial information. In many cases, We as a user won’t be even aware of it.
 
-Google Dork is a search query that we give to Google to look for more granular information and retrieve relevant information quickly. For example, try to search for your name and verify results with a search query [inurl:your-name]. Analyse the difference. You just have told google to go for a deeper search and it did that beautifully.
+#Google Dork is a search query that we give to Google to look for more granular information and retrieve relevant information quickly. For example, try to search for your name and verify results with a search query [inurl:your-name]. Analyse the difference. You just have told google to go for a deeper search and it did that beautifully.
 
-Google search service is never intended to gain unauthorised access of data but nothing can be done if we ourselves kept data in the open and do not follow proper security mechanisms.
+#Google search service is never intended to gain unauthorised access of data but nothing can be done if we ourselves kept data in the open and do not follow proper security mechanisms.
 
-Essentially emails, username, passwords, financial data and etc. shouldn’t be available in public until and unless it’s meant to be. Example, our details with the bank are never expected to be available in a google search. But our social media details are available in public because we ourselves allowed it.
+#Essentially emails, username, passwords, financial data and etc. shouldn’t be available in public until and unless it’s meant to be. Example, our details with the bank are never expected to be available in a google search. But our social media details are available in public because we ourselves allowed it.
 
-Ending Note
+#Ending Note
 Google Search is very useful as well as equally harmful at the same time. Because it indexes everything available over the web.
 
-You need to follow proper security mechanisms and prevent systems to expose sensitive data. Follow OWASP, it provides standard awareness document for developers and web application security.
+#You need to follow proper security mechanisms and prevent systems to expose sensitive data. Follow OWASP, it provides standard awareness document for developers and web application security.
 
-Scraper API provides a proxy service designed for web scraping. With over 20 million residential IPs across 12 countries, as well as software that can handle JavaScript rendering and solving CAPTCHAs, you can quickly complete large scraping jobs without ever having to worry about being blocked by any servers.
+#Scraper API provides a proxy service designed for web scraping. With over 20 million residential IPs across 12 countries, as well as software that can handle JavaScript rendering and solving CAPTCHAs, you can quickly complete large scraping jobs without ever having to worry about being blocked by any servers.
